@@ -4,15 +4,11 @@
     box-sizing: border-box;
 }
 
-body{
-    width: 100%;
-}
-
 #styledimg{
     background-image: url(./assets/bp-listicle-10-fun-things-to-do-in-the-sunshine-1024x576.2.jpg);
     width: 100%;
     height: 12.3rem;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
